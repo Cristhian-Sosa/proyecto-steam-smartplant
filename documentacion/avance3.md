@@ -1,6 +1,6 @@
-# Informe de Avance 3: Octubre 2025
+# Informe de Avance 3: Octubre 202x
 
-## [x]/10/2025
+## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
@@ -8,7 +8,7 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/10/2025
+## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
@@ -16,7 +16,7 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/10/2025
+## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
@@ -24,7 +24,7 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/10/2025
+## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
