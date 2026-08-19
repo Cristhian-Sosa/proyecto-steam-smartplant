@@ -16,7 +16,7 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/8/2026
+## 19/8/2026
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
@@ -24,7 +24,7 @@
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/8/2026
+## 26/8/2026
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
   - [Tareas completadas]
