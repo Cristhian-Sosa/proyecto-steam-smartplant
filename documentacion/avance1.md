@@ -16,9 +16,9 @@
   - **Problemas encontrados y soluciones/alternativas propuestas:** Detectamos que todavía nos faltaban varios componentes necesarios para continuar con el proyecto: interruptor ON/OFF, cables jumper M/M y M/H, resistencias de 220 Ω, sensor de humedad del suelo, tarjeta de expansión y pantalla LED. Como alternativa, estuvimos buscando estos componentes en Mercado Libre y comparando precios para planificar su compra.
   - **Próximos pasos:** Conseguir los componentes faltantes, continuar realizando pruebas de conexión con la Micro:bit y comenzar a probar individualmente el funcionamiento de los sensores, principalmente el DHT11 y, una vez adquirido, el sensor de humedad del suelo.
   - **Imágenes o videos ilustrativos del avance:** Se tomaron fotografías durante la clase donde se observa el primer contacto con los materiales, las conexiones iniciales realizadas con el sensor DHT11 y el trabajo del grupo con la Micro:bit y la protoboard.
-  - (imagenes/clase2.0.png)
-  - (imagenes/clase2.1.png)
-  - (imagenes/clase2.2.png)
+  - !(imagenes/clase2.0.png)
+  - !(imagenes/clase2.1.png)
+  - !(imagenes/clase2.2.png)
 
 ## 19/8/2026
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
