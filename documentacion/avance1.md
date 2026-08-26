@@ -15,8 +15,6 @@
   - **Tareas completadas:** Revisamos y organizamos los materiales disponibles: Micro:bit, protoboard, LED verde, amarillo y rojo, sensor DHT11, pilas AAA, portapilas AAA y cable Micro USB. También realizamos nuestras primeras conexiones de prueba con los componentes disponibles. Luego identificamos los materiales que todavía necesitábamos conseguir y buscamos opciones y precios en Mercado Libre.
   - **Problemas encontrados y soluciones/alternativas propuestas:** Detectamos que todavía nos faltaban varios componentes necesarios para continuar con el proyecto: interruptor ON/OFF, cables jumper M/M y M/H, resistencias de 220 Ω, sensor de humedad del suelo, tarjeta de expansión y pantalla LED. Como alternativa, estuvimos buscando estos componentes en Mercado Libre y comparando precios para planificar su compra.
   - **Próximos pasos:** Conseguir los componentes faltantes, continuar realizando pruebas de conexión con la Micro:bit y comenzar a probar individualmente el funcionamiento de los sensores, principalmente el DHT11 y, una vez adquirido, el sensor de humedad del suelo.
-  - **Imágenes o videos ilustrativos del avance:** Se tomaron fotografías durante la clase donde se observa el primer contacto con los materiales, las conexiones iniciales realizadas con el sensor DHT11 y el trabajo del grupo con la Micro:bit y la protoboard.
- 
   - 
 ![Clase 2 - Foto 1](imagenes/clase2.0.jpeg)
 
@@ -32,7 +30,6 @@
   * **Tareas completadas:** Se confirmó la lista definitiva de materiales y se avanzó con la compra de los componentes faltantes. Se escribieron las primeras líneas del código que utilizará la Micro:bit y se comenzó a establecer la lógica básica de funcionamiento del sistema. También se actualizaron los archivos y la documentación del repositorio de GitHub del proyecto.
   * **Problemas encontrados y soluciones/alternativas propuestas:** Uno de los principales desafíos fue determinar cómo integrar los diferentes sensores y componentes mediante el código. Como solución, se decidió comenzar desarrollando y probando el programa de manera progresiva, incorporando cada componente por separado antes de realizar la integración completa.
   * **Próximos pasos:** Reunir todos los materiales adquiridos, comenzar el armado de un primer prototipo funcional y realizar pruebas del código con los componentes reales para verificar las conexiones y el funcionamiento de los sensores.
-  * **Imágenes o videos ilustrativos del avance:** Se pueden incorporar capturas del código desarrollado y de las primeras actualizaciones realizadas en el repositorio de GitHub.
 
 ![Clase 3 - Foto 1](imagenes/clase4.1.jpeg)
 
