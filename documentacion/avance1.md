@@ -23,21 +23,29 @@
 ![Clase 2 - Foto 2](imagenes/clase2.1.jpeg)
 
 ![Clase 2 - Foto 3](imagenes/clase2.2.jpeg)
+
 ## 19/8/2026
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+
+* Durante la clase del 19 de agosto logramos definir de manera definitiva los **materiales necesarios para el desarrollo de SmartPlant** y avanzamos con la compra de los componentes que todavía faltaban. Además, comenzamos con la parte de programación del proyecto, escribiendo las primeras líneas de código en **Python** para la Micro:bit. Paralelamente, se realizaron las primeras actualizaciones del repositorio de GitHub y se comenzó a organizar la documentación correspondiente al proyecto, tarea que estuvo a cargo de **Agustin Antelo**.
+* Incluir:
+
+  * **Tareas completadas:** Se confirmó la lista definitiva de materiales y se avanzó con la compra de los componentes faltantes. Se escribieron las primeras líneas del código que utilizará la Micro:bit y se comenzó a establecer la lógica básica de funcionamiento del sistema. También se actualizaron los archivos y la documentación del repositorio de GitHub del proyecto.
+  * **Problemas encontrados y soluciones/alternativas propuestas:** Uno de los principales desafíos fue determinar cómo integrar los diferentes sensores y componentes mediante el código. Como solución, se decidió comenzar desarrollando y probando el programa de manera progresiva, incorporando cada componente por separado antes de realizar la integración completa.
+  * **Próximos pasos:** Reunir todos los materiales adquiridos, comenzar el armado de un primer prototipo funcional y realizar pruebas del código con los componentes reales para verificar las conexiones y el funcionamiento de los sensores.
+  * **Imágenes o videos ilustrativos del avance:** Se pueden incorporar capturas del código desarrollado y de las primeras actualizaciones realizadas en el repositorio de GitHub.
+
+
 
 ## 26/8/2026
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+
+* Durante la clase del 26 de agosto reunimos y organizamos los **materiales y componentes del proyecto SmartPlant** con el objetivo de comenzar la etapa de prototipado. A partir de los componentes disponibles comenzamos a preparar las conexiones necesarias para desarrollar los primeros prototipos funcionales del sistema. Al mismo tiempo, iniciamos las primeras pruebas del código desarrollado en Python con la Micro:bit para comprobar su funcionamiento con los componentes físicos.
+* Incluir:
+
+  * **Tareas completadas:** Se agruparon y organizaron los materiales del proyecto, se comenzó con el armado de los primeros prototipos y se implementaron las primeras pruebas del código Python en la Micro:bit. Esto permitió comenzar a relacionar la etapa de programación con el montaje físico del proyecto.
+  * **Problemas encontrados y soluciones/alternativas propuestas:** Durante esta etapa surgió la necesidad de verificar las conexiones y adaptar progresivamente el código a los componentes reales. Como alternativa, se decidió realizar pruebas individuales con los diferentes elementos antes de conectarlos todos simultáneamente, facilitando así la identificación de posibles errores.
+  * **Próximos pasos:** Continuar con las pruebas de los sensores y componentes, corregir posibles errores de conexión o programación, integrar progresivamente el sensor de humedad del suelo y el DHT11 con el sistema de alertas y avanzar hacia un prototipo funcional completo de SmartPlant.
+  * **Imágenes o videos ilustrativos del avance:** Agregar fotografías del armado del prototipo, de los componentes utilizados y capturas o videos de las primeras pruebas del código ejecutándose en la Micro:bit.
+
 
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
