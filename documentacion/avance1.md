@@ -34,7 +34,9 @@
   * **Próximos pasos:** Reunir todos los materiales adquiridos, comenzar el armado de un primer prototipo funcional y realizar pruebas del código con los componentes reales para verificar las conexiones y el funcionamiento de los sensores.
   * **Imágenes o videos ilustrativos del avance:** Se pueden incorporar capturas del código desarrollado y de las primeras actualizaciones realizadas en el repositorio de GitHub.
 
+![Clase 3 - Foto 1](imagenes/clase4.1.jpeg)
 
+![Clase 3 - Foto 2](imagenes/clase4.2.jpeg)
 
 ## 26/8/2026
 
