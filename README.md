@@ -1,3 +1,5 @@
+# FAVOR COMPLETAR EL README CON LA INFO BASICA DEL PROYECTO
+
 *Este repositorio es una plantilla para ser usada para documentar proyectos STEAM.*
 
 # [Nombre Proyecto STEAM]
