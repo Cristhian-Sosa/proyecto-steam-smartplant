@@ -14,13 +14,21 @@
 ![Clase 2 - Foto 1](imagenes/clase02.09.2.jpeg)
 ![Clase 2 - Foto 1](imagenes/clase02.09.jpeg)
 
-## [x]/9/202x
+## 16/9/2026
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
 - [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+
+### Tareas completadas
+
+### Problemas encontrados y soluciones/alternativas propuestas
+  - Tenemos que subir el codigo al git, asi no se vuelve indispensable algun compañero.
+  - Queremos reorganizar
+
+### Próximos pasos
+Falta completar
+
+### Imágenes o videos ilustrativos del avance
+Falta completar
 
 ## [x]/9/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
