@@ -10,8 +10,9 @@
 
 * **Próximos pasos:** Continuar realizando pruebas con los sensores para comprobar la estabilidad y precisión de las mediciones. Además, se buscará incorporar una **pantalla LED** al prototipo para poder visualizar directamente los datos obtenidos por los sensores.
 
-* **Imágenes o videos ilustrativos del avance:** Agregar fotografías del circuito y de los sensores conectados durante las pruebas, además de capturas o videos que muestren la ejecución del programa.
-
+* **Imágenes o videos ilustrativos del avance:** 
+![Clase 2 - Foto 1](imagenes/clase02.09.2.jpeg)
+![Clase 2 - Foto 1](imagenes/clase02.09.jpeg)
 
 ## [x]/9/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
