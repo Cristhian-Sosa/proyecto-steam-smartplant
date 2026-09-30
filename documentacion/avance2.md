@@ -38,13 +38,15 @@ Falta completar
   - [Próximos pasos]
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/9/202x
+## 30/9/2026
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+- El día de la fecha retomamos desde las vacaciones. Comprobamos el código hasta donde lo dejamos en la anterior instancia.
+- Comprobamos del sensor de humedad en funcionamiento con luces led.
+- Trabajamos en darle uso al sensor DHT11, leyendo temperatura, imprimiendo en pantalla oled e imprimiendo en el semaforo de luces led.
+- Trabajamos en solucionar los errores de dicho al leer el sensor. El profesor nos presto su sensor DHT11 para corroborar si era que el sensor fallaba en sí. Descartamos que el sensor sea el problema.
+- Procedimos haciendo prueba con distintos códigos. Luego buscamos simplificar las conexiones, para mayor entendimiento nuestro. Dimos coneccion al DHT11 en otra parte de la placa expansora de Micro BIT.
+- Logramos la lectura por consola, pero dado que es un sensor compuesto (temperatura y humedad) el valor medido no sabemos de que lectura es. La funcion "leer_dht11" se inicia pero no levanta los valores ("none, none").
+
 
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
