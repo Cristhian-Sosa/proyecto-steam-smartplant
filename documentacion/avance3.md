@@ -1,12 +1,7 @@
 # Informe de Avance 3: Octubre 202x
 
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+## 7/10/202x
+- Por problemas climáticos no pudimos venir a clase por lo cual el avance quedo estancado en la clase anterior
 
 ## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
