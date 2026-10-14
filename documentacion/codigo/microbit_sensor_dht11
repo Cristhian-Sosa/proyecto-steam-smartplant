@@ -1,0 +1,12 @@
+== 2026 10 14 =======================================================================================================
+
+// funcion para leer humedad y temperatura
+
+def on_forever():
+    dht11_dht22.query_data(DHTtype.DHT11, DigitalPin.P0, True, False, True)
+    humidity = dht11_dht22.read_data(dataType.HUMIDITY)
+    temp = dht11_dht22.read_data(dataType.TEMPERATURE)
+    serial.write_value("H", humidity)
+    serial.write_value("T", temp)
+    basic.pause(1000)
+basic.forever(on_forever)
