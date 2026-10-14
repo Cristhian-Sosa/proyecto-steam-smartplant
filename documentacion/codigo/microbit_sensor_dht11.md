@@ -1,6 +1,9 @@
-== 2026 10 14 =======================================================================================================
+# Pruebas de codigo
+## 2026 10 14
 
-// funcion para leer humedad y temperatura
+### Prueba 1
+```python
+# funcion para leer humedad y temperatura por serial
 
 def on_forever():
     dht11_dht22.query_data(DHTtype.DHT11, DigitalPin.P0, True, False, True)
@@ -10,9 +13,35 @@ def on_forever():
     serial.write_value("T", temp)
     basic.pause(1000)
 basic.forever(on_forever)
+```
 
+### Prueba 2
+```python
+# funcion para transmitir por radio los datos a la otra microbit
+# con condicion if sobre los datos/valores "-999"
 
-// Codigo v.2 
+def on_forever():
+    dht11_dht22.query_data(DHTtype.DHT11, DigitalPin.P0, True, False, True)
+    humidity = dht11_dht22.read_data(dataType.HUMIDITY)
+    temp = dht11_dht22.read_data(dataType.TEMPERATURE)
+    #serial.write_value("H", humidity)
+    #serial.write_value("T", temp)
+
+    if humidity < 101 and humidity > -1 :
+        radio.send_number(humidity)
+        basic.pause(1000)
+
+    if temp < 101 and temp > -1 :
+        radio.send_number(temp)
+        basic.pause(1000)
+
+basic.forever(on_forever)
+```
+### Prueba 3
+```python
+# mas adelante se cambia los llamados por serial y pasaria a ser llamado por radio
+
+# Codigo v.2 
 
 
 # SMARTPLANT - MICROBIT 1
@@ -47,3 +76,4 @@ def on_forever():
     basic.pause(2000)
 
 basic.forever(on_forever)
+```
