@@ -15,13 +15,10 @@
   - 
   - [Imágenes o videos ilustrativos del avance]
 
-## [x]/10/202x
-- [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
-- [Incluir:]
-  - [Tareas completadas]
-  - [Problemas encontrados y soluciones/alternativas propuestas]
-  - [Próximos pasos]
-  - [Imágenes o videos ilustrativos del avance]
+## 21/10/2026
+- Retomamos lo que que hicimos la clase pasa.
+- Presentamos un nuevo problema el serial de la microbit por alguna razon no se leia en PC, lo cual nos impedia colocarle el nuevo codigo a las microbit.
+- El profesor nos presto y Agustin se llevo dos microbit del profesor, para testear por nuestra cuenta y por fuera del horario de la clase nuevo codigo para darle las funcionalidades necesarias para el proyecto.
 
 ## [x]/10/202x
 - [Realizar una descripción de los avances en el proyecto en la fecha en uno o dos párrafos]
