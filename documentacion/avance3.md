@@ -24,7 +24,8 @@ Tareas completadas
     - Logramos terminar el proyecto y poder avanzar con las pruebas.
       
   Problemas y soluciones.
- - El problema principal que encontramos fue que el sensor DHT11 no estaba funcionando como deberia por lo cual la solucion que tomamos luego de varios intentos fue no utilizar ese sensor
+ - El problema principal que encontramos fue que el sensor DHT11 no estaba funcionando como deberia por lo cual la solucion que tomamos luego de varios intentos fue no utilizar ese sensor.
+ - Tambien no podes utilizar dos pilas AAA ya que el codigo se corrompe y la pantalla oled no muestra los datos por lo cual por ahora este prototipo va a estar conectado a una pc para que sea el voltaje adecuado 
 
     - ![Clase 2 - Foto 2](imagenes/microbit_reestructurado1.jpeg)
 
