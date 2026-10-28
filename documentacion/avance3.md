@@ -1,9 +1,9 @@
 # Informe de Avance 3: Octubre 202x
 
-## 7/10/202x
+## 7/10/2026
 - Por problemas climáticos no pudimos venir a clase por lo cual el avance quedo estancado en la clase anterior
 
-## 14/10/202x
+## 14/10/2026
   -El dia de hoy estuvimos buscando soluciones en el codigo para que funcione el DHT11.
 
   - Nos encontramos con el problema de que el DHT11 no tiene el tiempo de respuesta que necesita para ejecutar el codigo ya que la             microbit pone una capa al leer el codigo.
