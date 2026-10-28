@@ -24,9 +24,13 @@ Tareas completadas
     - Logramos terminar el proyecto y poder avanzar con las pruebas.
       
   Problemas y soluciones.
- - El problema principal que encontramos fue que el sensor DHT11 no estaba funcionando como deberia por lo cual la solucion que tomamos luego de varios intentos fue no utilizar ese sensor 
- 
-  - [Imágenes o videos ilustrativos del avance]
+ - El problema principal que encontramos fue que el sensor DHT11 no estaba funcionando como deberia por lo cual la solucion que tomamos luego de varios intentos fue no utilizar ese sensor
+
+    - ![Clase 2 - Foto 2](imagenes/microbit_reestructurado1.jpeg)
+
+    - ![Clase 2 - Foto 2](imagenes/microbit_reestructurado4.jpeg)
+  
+
 
 ## Nota
 En este enlace encontrarás un [ejemplo como debe completarse el informe de avance](avance_ejemplo.md).
