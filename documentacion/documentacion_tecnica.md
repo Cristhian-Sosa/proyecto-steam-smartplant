@@ -7,11 +7,9 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 # Proyecto: [Nombre del proyecto]
 
 ## 1. Integrantes
-- [Nombre integrante 1]
-- [Nombre integrante 2]
-- [Nombre integrante 3]
-- [Nombre integrante 4]
-- [Nombre integrante 5]
+- Agustin Antelo
+- Gabriel Perlas
+- Emiliano Pérez
 
 ## 2. Descripción
 - [Realizar una descripción general del proyecto en dos o tres párrafos]
