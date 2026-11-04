@@ -23,7 +23,7 @@ tecnicatura **Redes y Software** del [**ISBO**] de **UTU**.
 - [Documentación técnica](documentacion/documentacionF.md)
 
 ## Código fuente
-- [`documentacion/codigo/microbit_reestructurado.py´]
+- [`codigo/microbit_reestructurado.py´](codigo/microbit_reestructurado.py)
 
 ## Presentación Final
 - [Agregar enlace a la carpeta de GitHub donde se hayan guardado diapositivas, videos, etc usados en la presentación final]
