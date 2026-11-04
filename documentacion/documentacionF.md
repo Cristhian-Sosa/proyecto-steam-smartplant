@@ -98,6 +98,8 @@ Para visualizar los datos en la OLED se requiere una biblioteca compatible con s
 - [Documentación MicroPython para micro:bit](https://microbit-micropython.readthedocs.io/)
 - [Editor Python para micro:bit](https://python.microbit.org/)
 - [Información oficial sobre micro:bit V2](https://microbit.org/new-microbit/)
+- [Sitio oficial de Microsoft para Microbit:] (https://makecode.microbit.org)
+- [Sitio para diseñar componentes físicos con sensores o dispositivos IoT: ](https://vento.build/es/)
 
 ---
 
