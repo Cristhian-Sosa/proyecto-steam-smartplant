@@ -22,10 +22,8 @@ El objetivo es facilitar el seguimiento de la humedad del sustrato para identifi
 | Imagen | Descripción |
 | --- | --- |
 | ![Microbit V2](imagenes/01microbit.png) | **BBC micro:bit V2:** placa programable que procesa las lecturas del sensor. Imagen de referencia incluida en la carpeta del proyecto. |
-| ![Sensor capacitivo](imagenes/prototipo_smartplant.jpg) | **Sensor capacitivo de humedad del suelo:** sonda negra visible en la fotografía general; detecta variaciones de humedad del sustrato. |
 | ![Pantalla OLED](imagenes/microbit_reestructurado1.jpeg) | **Pantalla OLED:** módulo de visualización; se observa encendido en una de las pruebas. |
 | ![Cables jumper y montaje](imagenes/prototipo_smartplant.jpg) | **Cables jumper:** conexiones eléctricas entre la micro:bit, el sensor y la pantalla. |
-| ![Tarjeta de expansión](imagenes/16tarjeta_expansora.jpg) | **Tarjeta de expansión:** permite conectar varios cables a los pines de la micro:bit. |
 
 ![Fotografía general del prototipo](imagenes/prototipo_smartplant.jpg)
 
