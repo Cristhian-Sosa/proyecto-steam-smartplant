@@ -1,0 +1,106 @@
+# Documentación Técnica
+
+*Fecha: noviembre de 2026*
+
+Este documento presenta la documentación técnica del proyecto STEAM del curso **Laboratorio STEAM+**, tecnicatura **Redes y Software**, Instituto Superior Brazo Oriental (UTU), año 2026.
+
+# Proyecto: SmartPlant – Maceta Inteligente
+
+## 1. Integrantes
+- Cristhian Sosa
+- Agustin Antelo
+- Emiliano Pérez
+- Gabriel Perlas
+
+## 2. Descripción
+SmartPlant es un prototipo de maceta inteligente que utiliza una **BBC micro:bit V2** y un **sensor capacitivo de humedad del suelo** para conocer el estado de humedad de la tierra. Una **pantalla OLED** permite visualizar información del sistema. Los componentes se conectan mediante **cables jumper** y una **tarjeta de expansión** para la micro:bit, visible en las fotografías del montaje.
+
+El objetivo es facilitar el seguimiento de la humedad del sustrato para identificar cuándo puede ser necesario regar la planta. El prototipo se desarrolló mediante pruebas de conexión y programación en laboratorio. **La versión actual no utiliza el sensor DHT11.**
+
+## 3. Materiales
+
+| Imagen | Descripción |
+| --- | --- |
+| ![Microbit V2](imagenes/01microbit.png) | **BBC micro:bit V2:** placa programable que procesa las lecturas del sensor. Imagen de referencia incluida en la carpeta del proyecto. |
+| ![Sensor capacitivo](imagenes/prototipo_smartplant.jpg) | **Sensor capacitivo de humedad del suelo:** sonda negra visible en la fotografía general; detecta variaciones de humedad del sustrato. |
+| ![Pantalla OLED](imagenes/microbit_reestructurado1.jpeg) | **Pantalla OLED:** módulo de visualización; se observa encendido en una de las pruebas. |
+| ![Cables jumper y montaje](imagenes/prototipo_smartplant.jpg) | **Cables jumper:** conexiones eléctricas entre la micro:bit, el sensor y la pantalla. |
+| ![Tarjeta de expansión](imagenes/16tarjeta_expansora.jpg) | **Tarjeta de expansión:** permite conectar varios cables a los pines de la micro:bit. |
+
+![Fotografía general del prototipo](imagenes/prototipo_smartplant.jpg)
+
+*Figura 1. Componentes reales del prototipo: micro:bit con expansión, sensor capacitivo, pantalla OLED y cableado.*
+
+## 4. Diseño Mecánico
+
+Durante las pruebas se dispusieron los componentes sobre una mesa de trabajo, conectados mediante cables jumper. La micro:bit se colocó en una tarjeta de expansión y se preparó la pantalla OLED para mostrar las lecturas. El sensor capacitivo está destinado a introducirse en la tierra, manteniendo fuera del sustrato su parte electrónica y sus conexiones.
+
+![Preparación del montaje](imagenes/clase2.2.jpeg)
+
+*Figura 2. Trabajo de armado y revisión de conexiones en laboratorio.*
+
+![Prototipo durante las pruebas](imagenes/microbit_reestructurado3.jpeg)
+
+*Figura 3. Disposición del conjunto electrónico en una etapa de prueba.*
+
+La instalación definitiva dentro o junto a una maceta debe proteger la micro:bit y la pantalla de salpicaduras y humedad. Las imágenes disponibles documentan el **prototipo de laboratorio**, no permiten confirmar una carcasa o base definitiva.
+
+## 5. Diseño Electrónico
+
+La micro:bit recibe la señal del sensor capacitivo y procesa su valor. La pantalla OLED presenta la información al usuario. La tarjeta de expansión facilita el acceso a los pines de alimentación, tierra y señal.
+
+### Conexión del sensor capacitivo
+En los sensores capacitivos analógicos habituales se utilizan:
+- **VCC:** alimentación compatible con el módulo y la micro:bit.
+- **GND:** tierra común.
+- **AOUT:** salida analógica hacia una entrada de la micro:bit (por ejemplo P0, si coincide con el cableado real).
+
+### Conexión de la pantalla OLED
+Si la pantalla es un módulo **I²C de cuatro pines** compatible con 3,3 V, las conexiones habituales son:
+- **VCC:** alimentación de 3 V.
+- **GND:** tierra común.
+- **SCL:** P19 de la micro:bit.
+- **SDA:** P20 de la micro:bit.
+
+**Nota:** las fotografías no permiten comprobar todas las etiquetas de los pines ni el modelo exacto del controlador OLED. Las conexiones anteriores son una **referencia técnica orientativa**, no un esquema verificado del montaje final. Debe comprobarse la compatibilidad de voltaje y el orden de pines impreso en cada módulo.
+
+![Conexiones reales del prototipo](imagenes/prototipo_smartplant.jpg)
+
+*Figura 4. Cableado de prueba y componentes del sistema.*
+
+## 6. Diseño Software
+
+La programación tiene como finalidad obtener la lectura del sensor de humedad, interpretarla y presentarla al usuario. Las imágenes del repositorio muestran sesiones de programación y una prueba con la pantalla OLED encendida.
+
+![Pantalla OLED en funcionamiento](imagenes/microbit_reestructurado1.jpeg)
+
+*Figura 5. Prueba visual de la pantalla OLED.*
+
+![Prueba de programación](imagenes/microbit_reestructurado4.jpeg)
+
+*Figura 6. Captura fotográfica de una sesión de pruebas de software; el texto del programa no es suficientemente legible para transcribirlo de forma fiable.*
+
+### Ejemplo de lectura analógica
+El siguiente programa es **un ejemplo orientativo de MicroPython**, no el código final del equipo. Supone que la señal analógica está conectada a P0:
+
+```python
+from microbit import *
+
+while True:
+    lectura = pin0.read_analog()
+    display.scroll(str(lectura))
+    sleep(1000)
+```
+
+Para visualizar los datos en la OLED se requiere una biblioteca compatible con su controlador. Para expresar la humedad como porcentaje se deben calibrar los valores obtenidos en tierra seca y húmeda. **Queda pendiente incorporar el programa definitivo utilizado por el grupo.**
+
+## 7. Referencias y recursos
+- [Repositorio GitHub del proyecto](https://github.com/Cristhian-Sosa/proyecto-steam-smartplant)
+- [Carpeta de imágenes del proyecto](https://github.com/Cristhian-Sosa/proyecto-steam-smartplant/tree/0e47bbf3c3dcfac601faeaef0ccbaaecdcb3a564/documentacion/imagenes)
+- [Documentación MicroPython para micro:bit](https://microbit-micropython.readthedocs.io/)
+- [Editor Python para micro:bit](https://python.microbit.org/)
+- [Información oficial sobre micro:bit V2](https://microbit.org/new-microbit/)
+
+---
+
+**Pendiente de confirmar:** conexiones exactas del sensor y de la OLED, modelo del controlador OLED, código final y fotografías del montaje definitivo en la maceta.
