@@ -1,6 +1,6 @@
 # Documentación Técnica
 
-*Fecha: noviembre de 2026*
+*Fecha: 04 de noviembre de 2026*
 
 Este documento contiene la documentación técnica del proyecto **SmartPlant – Maceta Inteligente**, desarrollado para el proyecto STEAM del curso **Laboratorio STEAM+** de la tecnicatura **Redes y Software** del **Instituto Superior Brazo Oriental** de **UTU**, año 2026.
 
