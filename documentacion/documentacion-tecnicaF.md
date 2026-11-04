@@ -111,5 +111,7 @@ Para validar el prototipo se propone registrar lecturas del sensor en tierra sec
 - Repositorio del proyecto SmartPlant: https://github.com/Cristhian-Sosa/proyecto-steam-smartplant
 - Referencia oficial de MicroPython para Micro:bit: https://python.microbit.org/v/3/reference
 - Sitio oficial de Micro:bit: https://microbit.org/
+- Sitio oficial de Microsoft para Microbit: https://makecode.microbit.org
+- Sitio para diseñar componentes físicos con sensores o dispositivos IoT: https://vento.build/es/
 - Documentación técnica del fabricante del sensor capacitivo: *pendiente de agregar según modelo*.
 - Documentación técnica de la pantalla OLED: *pendiente de agregar según modelo y controlador*.
