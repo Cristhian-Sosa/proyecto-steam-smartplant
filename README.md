@@ -1,11 +1,11 @@
 *Documento README.md del proyecto Smart Plant*
 
-# [Nombre Proyecto STEAM]
+# [Smart Plant]
 
 ## Descripción
 - [Proyecto de Smart Plant, una maceta inteligente para el seguimiento de la humedad de una planta en el caso y correcta rehidratación]
 - [Prototipo Smart Plant](imagenes/prototipo_smartplant.jpg)
-- [Opcional: agregar el nombre del equipo]
+- [Gaga-Group]
 
 *Nota:* Este proyecto se realiza durante el curso **Laboratorio STEAM+** de la
 tecnicatura **Redes y Software** del [**ISBO**] de **UTU**.
@@ -26,7 +26,8 @@ tecnicatura **Redes y Software** del [**ISBO**] de **UTU**.
 - [codigo de la microbit](codigo/microbit_reestructurado.py)
 
 ## Presentación Final
-- [Agregar enlace a la carpeta de GitHub donde se hayan guardado diapositivas, videos, etc usados en la presentación final]
+- [Imagenes](documentacion/imagnes/)
+- [Código](documentacion/codigo/)
 - [`/documentacion/ TER MINAR´]
 - `presentacion/presentacion-final.pptx`
 - `presentacion/video.mov`
