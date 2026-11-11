@@ -1,20 +1,20 @@
 *Documento README.md del proyecto Smart Plant*
 
-# [Smart Plant]
+# Smart Plant
 
 ## Descripción
-- [Proyecto de Smart Plant, una maceta inteligente para el seguimiento de la humedad de una planta en el caso y correcta rehidratación]
+- Proyecto de Smart Plant, una maceta inteligente para el seguimiento de la humedad de una planta en el caso y correcta rehidratación
 - [Prototipo Smart Plant](imagenes/prototipo_smartplant.jpg)
-- [Gaga-Group]
+- Gaga-Group
 
 *Nota:* Este proyecto se realiza durante el curso **Laboratorio STEAM+** de la
-tecnicatura **Redes y Software** del [**ISBO**] de **UTU**.
+tecnicatura **Redes y Software** del **ISBO** de **UTU**.
 
 ## Integrantes
-- [Agustin Antelo]
-- [Cristhian Sosa]
-- [Gabriel Perlas]
-- [Emiliano Pérez]
+- Agustin Antelo
+- Cristhian Sosa
+- Gabriel Perlas
+- Emiliano Pérez
 
 ## Documentación
 - [Informe de Avance - Agosto 2026](documentacion/avance1.md)
@@ -28,6 +28,3 @@ tecnicatura **Redes y Software** del [**ISBO**] de **UTU**.
 ## Presentación Final
 - [Imagenes](documentacion/imagnes/)
 - [Código](documentacion/codigo/)
-- [`/documentacion/ TER MINAR´]
-- `presentacion/presentacion-final.pptx`
-- `presentacion/video.mov`
