@@ -20,7 +20,7 @@ tecnicatura **Redes y Software** del **ISBO** de **UTU**.
 - [Informe de Avance - Agosto 2026](documentacion/avance1.md)
 - [Informe de Avance - Septiembre 2026](documentacion/avance2.md)
 - [Informe de Avance - Octubre 2026](documentacion/avance3.md)
-- [Documentación técnica](documentacion/documentacionF.md)
+- [Documentación técnica](documentacion/documentacion_tecnica.md)
 
 ## Código fuente
 - [codigo de la microbit](codigo/microbit_reestructurado.py)
