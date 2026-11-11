@@ -47,7 +47,7 @@ La instalación definitiva dentro o junto a una maceta debe proteger la micro:bi
 
 Se presenta a continuación un diagrama hecho por Tinketcad.
 
-(imagenes/tinkercad_diagrama.png)
+![Diagrama](imagenes/tinkercad_diagrama.png)
 
 La micro:bit recibe la señal del sensor capacitivo y procesa su valor. La pantalla OLED presenta la información al usuario. La tarjeta de expansión facilita el acceso a los pines de alimentación, tierra y señal.
 
